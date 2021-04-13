@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.04.13 23:42:17.654,=C:\Users\Юля\Documents\Embarcadero\Studio\Projects\Project5PCH1.h</Transaction>
+    <Transaction>2021.04.13 23:42:17.697,=C:\Users\Юля\Documents\Embarcadero\Studio\Projects\Unit7.cpp</Transaction>
+    <Transaction>2021.04.13 23:44:40.372,C:\Users\Юля\Documents\Embarcadero\Studio\Курсовая\Unit7.cpp=C:\Users\Юля\Documents\Embarcadero\Studio\Projects\Unit7.cpp</Transaction>
+    <Transaction>2021.04.13 23:44:40.372,C:\Users\Юля\Documents\Embarcadero\Studio\Курсовая\Unit7.h=C:\Users\Юля\Documents\Embarcadero\Studio\Projects\Unit7.h</Transaction>
+    <Transaction>2021.04.13 23:44:40.372,C:\Users\Юля\Documents\Embarcadero\Studio\Курсовая\Unit7.dfm=C:\Users\Юля\Documents\Embarcadero\Studio\Projects\Unit7.dfm</Transaction>
+    <Transaction>2021.04.13 23:44:43.784,C:\Users\Юля\Documents\Embarcadero\Studio\Курсовая\Project5PCH1.h=C:\Users\Юля\Documents\Embarcadero\Studio\Projects\Project5PCH1.h</Transaction>
+    <Transaction>2021.04.13 23:45:00.487,C:\Users\Юля\Documents\Embarcadero\Studio\Курсовая\Project5bibliotekaPCH1.h=C:\Users\Юля\Documents\Embarcadero\Studio\Курсовая\Project5PCH1.h</Transaction>
+    <Transaction>2021.04.13 23:45:00.499,C:\Users\Юля\Documents\Embarcadero\Studio\Курсовая\Project5biblioteka.cbproj=C:\Users\Юля\Documents\Embarcadero\Studio\Projects\Project5.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
