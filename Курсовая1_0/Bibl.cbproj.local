@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Home\Documents\Embarcadero\Studio\Projects\BookInfo.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Biblioteka.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.826,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Book.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.113,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Bibl.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Biblioteka.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.297,=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Read.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.826,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Book.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Home\Documents\Embarcadero\Studio\Projects\BookInfoIO.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.826,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Book.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Read.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Home\Documents\Embarcadero\Studio\Projects\ProjectBiblioteka.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Read.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Home\Documents\Embarcadero\Studio\Projects\BookInfoIO.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Home\Documents\Embarcadero\Studio\Projects\BookInfo.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.761,=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Biblioteka.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
